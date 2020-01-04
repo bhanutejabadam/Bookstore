@@ -1,0 +1,11 @@
+<%@ tag language="java" pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html xmlns:th="https://thymeleaf.org">  
+<head>
+<meta charset="ISO-8859-1">
+<title>searchshow</title>
+</head>
+<body>
+${msg}
+</body>
+</html>
